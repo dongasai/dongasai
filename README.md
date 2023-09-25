@@ -10,18 +10,16 @@
 - 我熟悉的框架：Phalcon、Laravel、ThinkPHP、Vue、hyperf
 ## 近期的规划
 - 上好班完成公司的工作
-- 一个PHP多线程测试框架
-- ADTL（一个API测试工具）
+- 随便搞搞吧,重在参与
 
 ## 工作环境
 * 办公电脑 &nbsp;
-[![KUbuntu 20.04](https://img.shields.io/badge/KUbuntu%2020.04-00adef?style=flat-square&logo=kubuntu&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-10)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-10)
 * 家用电脑 &nbsp; 
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-10)
-* 测试机 &nbsp; [![Android 10](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-10/)
 * 个人手机 &nbsp; <img src="https://www.harmonyos.com/resource/image/release2/home/harmonyOS_logo.png" width="80px" height="20px">
-* 测试机2 &nbsp; [![Android 9](https://img.shields.io/badge/Android%209-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-9/)
-* 家用开发 &nbsp;[![KUbuntu 20.04](https://img.shields.io/badge/KUbuntu%2020.04-00adef?style=flat-square&logo=kubuntu&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-10)  
+* 测试机 &nbsp; [![Android 9](https://img.shields.io/badge/Android%209-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-9/)
+* 家用开发 &nbsp;[![KUbuntu 20.04](https://img.shields.io/badge/KUbuntu%2020.04-00adef?style=flat-square&logo=kubuntu&logoColor=white)]([https://www.microsoft.com/en-us/windows/windows-10](https://kubuntu.org/))  
   
 ## 我的设备
 
@@ -34,6 +32,7 @@
 ![](https://shields.io/badge/cherry-G80--3800-green?logo=cherry)
 
 ![](https://shields.io/badge/LG-G8X-green?logo=lg)
+![](https://shields.io/badge/wooking)
 
 ##
 
