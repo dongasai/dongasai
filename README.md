@@ -7,7 +7,7 @@
 我的英语比我的js还烂。
 -->
 - 世界上最好的语言：PHP。
-- 我熟悉的框架：Phalcon、Laravel、ThinkPHP、Vue、hyperf
+- 我熟悉的框架：hyperf、Phalcon、Laravel、ThinkPHP、Vue、
 ## 近期的规划
 - 上好班完成公司的工作
 - 随便搞搞吧,重在参与
