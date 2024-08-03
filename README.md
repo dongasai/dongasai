@@ -26,8 +26,9 @@
 ![X79](https://img.shields.io/badge/X79-E5--2696%20V2-red)
 
 
-![勇敢做自己，做自己最荣耀](https://shields.io/badge/honor-v30-green?logo=huawei)
+![勇敢做自己，做自己最荣耀](https://shields.io/badge/honor-v20-green?logo=huawei)
 
+![勇敢做自己，做自己最荣耀](https://shields.io/badge/huawei-p50pro-red?logo=huawei)
 
 ![](https://shields.io/badge/cherry-G80--3800-green?logo=cherry)
 
